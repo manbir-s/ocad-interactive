@@ -1,0 +1,102 @@
+p {
+	color:red;
+	font-size: 50px;
+	font-family: sans-serif;
+	background: rgb(176, 176, 255);
+}
+
+div {
+
+}
+
+.box {
+	width: 75px;
+	height: 75px;
+}
+
+#bluebox {
+	background:blue;
+	position: absolute;
+	top:200px;
+	left:100px;
+}
+
+#greenbox {
+	background:green;
+}
+
+#redbox {
+	background:red;
+}
+#A {
+	position: relative;
+}
+#a-leftside {
+	width: 50px;
+	height: 200px;
+	background: blue;
+}
+
+#a-topside {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 50px;
+}
+
+#a-rightside {
+	width: 50px;
+	height: 200px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 100px;
+}
+
+#a-crossbar {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 100px;
+	left: 50px;
+}
+
+#O {
+	position: relative;
+	top: 50px;
+}
+#o-leftside {
+	width: 50px;
+	height: 200px;
+	background: blue;
+}
+
+#o-top {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 50px;
+}
+
+#o-rightside {
+	width: 50px;
+	height: 200px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 100px;
+}
+
+#o-bottom {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 150px;
+	left: 50px;
+}
