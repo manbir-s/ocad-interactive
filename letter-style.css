@@ -1,0 +1,2656 @@
+.letter {
+
+	width:300px; /*resize as you see fit */
+	height:300px; /*resize as you see fit */
+	display:inline-block; /* this makes block level elements act like letters (so they sit next to eachother) */
+	border:1px solid #000; /*feel free to remove or hide this rule */
+	position:relative; /* IMPORTANT: any element with position:absolute inside this container will now be relative to bounds of this element; */
+}
+/*LETTER A*/
+#A {
+	position: relative;
+}
+
+#a10
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 125px;
+      left: 60px;
+}
+
+
+
+#a6
+{
+      width: 200px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: 60px;
+}
+
+#a9
+{
+      width: 200px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: -40px;
+}
+
+#a7
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 110px;
+}
+
+#a8
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+
+#a5
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 50px;
+      left: 60px;
+}
+
+#a1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 200px;
+	background: blue;
+}
+
+#a2 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 50px;
+}
+
+#a3 {
+	width: 50px;
+	height: 200px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 100px;
+}
+
+#a4 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 75px;
+	left: 50px;
+}
+
+
+#B {
+	position: relative;
+}
+
+#b12
+{
+      width: 51px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 125px;
+      left: 59px;
+}
+
+#b11
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 49px;
+      left: 59px;
+}
+
+#b8
+{
+      width: 150px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#b7
+{
+      width: 125px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 139px;
+      left: 97px;
+}
+
+#b9
+{
+      width: 100px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 51px;
+      left: 85px;
+}
+
+#b10
+{
+      width: 125px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 113px;
+      left: -3px;
+}
+
+#b1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 200px;
+	background: blue;
+}
+
+#b2 {
+	width: 50px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 50px;
+}
+
+#b3 {
+	width: 50px;
+	height: 100px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 75px;
+}
+
+#b4 {
+	width: 50px;
+	height: 100px;
+	background: blue;
+	position: absolute;
+	top: 75px;
+	left: 100px;
+}
+
+#b5 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 75px;
+	left: 50px;
+}
+
+#b6 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 150px;
+	left: 50px;
+	
+}
+
+#C {
+	position: relative;
+}
+
+#c8
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 177px;
+      left: 135px;
+}
+
+#c7
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 27px;
+      left: 135px;
+}
+
+#c6
+{
+      width: 100px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 50px;
+      left: 60px;
+}
+
+#c5
+{
+      width: 150px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#c4
+{
+      width: 125px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 111px;
+      left: -3px;
+}
+
+#c1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 200px;
+	background: blue;
+}
+
+#c2 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 50px;
+}
+
+#c3 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 150px;
+	left: 50px;
+	
+}
+
+
+#D {
+	position: relative;
+}
+
+#d11
+{
+      width: 100px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: 110px;
+}
+
+#d10
+{
+      width: 125px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 114px;
+      left: -3px;
+}
+
+#d9
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 150px;
+      left: 110px;
+}
+
+#d8
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 50px;
+      left: 60px;
+}
+
+#d7
+{
+      width: 100px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#d6
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 27px;
+      left: 85px;
+}
+
+#d5
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 177px;
+      left: 85px;
+}
+
+#d1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 200px;
+	background: blue;
+}
+
+#d2 {
+	width: 50px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 50px;
+}
+
+#d3 {
+	width: 50px;
+	height: 100px;
+	background: blue;
+	position: absolute;
+	top: 50px;
+	left: 100px;
+}
+
+#d4 {
+	width: 50px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 150px;
+	left: 50px;
+}
+
+
+#E {
+	position: relative;
+}
+
+#e11
+{
+      width: 125px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 114px;
+      left: -3px;
+}
+
+#e10
+{
+      width: 100px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 125px;
+      left: 60px;
+}
+
+#e9
+{
+      width: 100px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 50px;
+      left: 60px;
+}
+
+#e8
+{
+      width: 150px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#e7
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: 135px;
+}
+
+#e6
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 177px;
+      left: 135px;
+}
+
+#e5
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 27px;
+      left: 135px;
+}
+
+#e1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 200px;
+	background: blue;
+}
+
+#e2 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 50px;
+}
+
+
+#e3 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 75px;
+	left: 50px;
+}
+
+#e4 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 150px;
+	left: 50px;
+	
+}
+
+
+#F {
+	position: relative;
+}
+
+#f10
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#f9
+{
+      width: 150px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 127px;
+      left: -15px;
+}
+
+#f8
+{
+      width: 100px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 125px;
+      left: 60px;
+}
+
+#f7
+{
+      width: 100px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 50px;
+      left: 60px;
+}
+
+#f6
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: 135px;
+}
+
+#f5
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 27px;
+      left: 135px;
+}
+
+#f1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 200px;
+	background: blue;
+}
+
+#f2 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 50px;
+}
+
+
+#f3 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 75px;
+	left: 50px;
+}
+
+#G {
+	position: relative;
+}
+
+#g12
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 124px;
+      left: 85px;
+}
+
+#g11
+{
+      width: 125px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 114px;
+      left: -3px;
+}
+
+#g10
+{
+      width: 150px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 50px;
+      left: 10px;
+}
+
+#g9
+{
+      width: 150px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#g8
+{
+      width: 125px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 139px;
+      left: 97px;
+}
+
+#g7
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 27px;
+      left: 135px;
+}
+
+#g1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 200px;
+	background: blue;
+}
+
+#g2 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 50px;
+}
+
+
+#g4 {
+	width: 50px;
+	height: 100px;
+	background: blue;
+	position: absolute;
+	top: 75px;
+	left: 100px;
+}
+
+#g5 {
+	width: 50px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 75px;
+	left: 75px;
+}
+
+#g6 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 150px;
+	left: 50px;
+	
+}
+
+#H {
+	position: relative;
+}
+
+#h8
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 125px;
+      left: 60px;
+}
+
+#h7
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 110px;
+}
+
+#h6
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#h5
+{
+      width: 200px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: -40px;
+}
+
+#h4
+{
+      width: 200px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: 60px;
+}
+
+#h1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 200px;
+	background: blue;
+}
+
+#h2 {
+	width: 50px;
+	height: 200px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 100px;
+}
+
+#h3 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 75px;
+	left: 50px;
+}
+
+
+#I {
+	position: relative;
+}
+
+#i3
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#i2
+{
+      width: 200px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: -40px;
+}
+
+#i1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 200px;
+	background: blue;
+}
+
+#J {
+	position: relative;
+}
+
+#j6
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: darkblue;
+      position: absolute;
+      top: 126px;
+      left: 10px;
+}
+
+#j5
+{
+      width: 150px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#j4
+{
+      width: 200px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: 60px;
+}
+
+#j1 {
+	position: absolute;
+	top: 125px;
+	left: 0px;
+	width: 50px;
+	height: 75px;
+	background: blue;
+}
+
+#j2 {
+	width: 50px;
+	height: 200px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 100px;
+}
+
+#j3 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 150px;
+	left: 50px;
+}
+
+
+#K {
+      position: relative;
+}
+
+#k12
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 107px;
+      left: 85px;
+}
+
+#k11
+{
+      width: 70px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 167px;
+      left: 125px;
+}
+
+#k10
+{
+      width: 80px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 42px;
+      left: 120px;
+}
+
+#k9
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 130px;
+      left: 60px;
+}
+
+#k8
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 80px;
+      left: 110px;
+}
+
+#k7
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 110px;
+}
+
+#k3
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#k2
+{
+      width: 200px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: -40px;
+}
+
+#k6 {
+      position: absolute;
+      top: 130px;
+      left: 100px;
+      width: 50px;
+      height: 70px;
+      background: blue;
+}
+
+#k5 {
+      position: absolute;
+      top: 0px;
+      left: 100px;
+      width: 50px;
+      height: 80px;
+      background: blue;
+}
+
+#k4 {
+      position: absolute;
+      top: 80px;
+      left: 50px;
+      width: 50px;
+      height: 50px;
+      background: blue;
+}
+
+#k1 {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      width: 50px;
+      height: 200px;
+      background: blue;
+}
+
+#L {
+	position: relative;
+}
+
+#l5
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 177px;
+      left: 135px;
+}
+
+#l4
+{
+      width: 150px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#l3
+{
+      width: 200px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: -40px;
+}
+
+
+#l1 {
+	width: 50px;
+	height: 200px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+#l2 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 150px;
+	left: 50px;
+}
+
+
+#M {
+	position: relative;
+}
+
+#m11
+{
+      width: 150px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 50px;
+      left: 50px;
+ }
+
+#m10
+{
+      width: 200px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 103px;
+      left: 110px;
+}
+
+#m9
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 160px;
+}
+
+#m8
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 85px;
+}
+
+#m7
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#m6
+{
+      width: 150px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 127px;
+      left: 60px;
+}
+
+#m5
+{
+      width: 150px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 127px;
+      left: -15px;
+}
+
+#m1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 200px;
+	background: blue;
+}
+
+#m2 {
+	width: 50px;
+	height: 200px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 150px;
+}
+
+#m3 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 50px;
+}
+
+#m4 {
+	width: 50px;
+	height: 200px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 75px;
+}
+
+#N {
+      position: relative;
+}
+
+#n11
+{
+      width: 125px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 94px;
+      left: 35px;
+}
+
+#n10
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 100px;
+      left: 60px;
+}
+
+#n9
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 170px;
+      left: 98px;
+}
+
+#n8
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 135px;
+}
+
+#n7
+{
+      width: 200px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: 85px;
+}
+
+#n6
+{
+      width: 200px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: -40px;
+}
+
+#n5
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#n4 {
+      position: absolute;
+      top: 100px;
+      left: 87.5px;
+      width: 37.5px;
+      height: 70px;
+      background: blue;
+}
+
+#n3 {
+      position: absolute;
+      top: 30px;
+      left: 50px;
+      width: 37.50px;
+      height: 70px;
+      background: blue;
+}
+
+#n2 {
+      position: absolute;
+      top: 0px;
+      left: 125px;
+      width: 50px;
+      height: 200px;
+      background: blue;
+}
+
+#n1 {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      width: 50px;
+      height: 200px;
+      background: blue;
+}
+
+
+#O {
+	position: relative;
+}
+
+#o8
+{
+      width: 150px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#o7
+{
+      width: 90px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 50px;
+      left: 60px;
+ }
+
+#o6
+{
+      width: 200px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: 60px;
+}
+
+#o5
+{
+      width: 125px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 114px;
+      left: -3px;
+}
+
+#o1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 200px;
+	background: blue;
+}
+
+#o2 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 50px;
+}
+
+#o3 {
+	width: 50px;
+	height: 200px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 100px;
+}
+
+#o4 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 150px;
+	left: 50px;
+}
+
+
+#P {
+	position: relative;
+}
+
+
+#p9
+{
+      width: 125px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 64px;
+      left: 97px;
+}
+
+#p8
+{
+      width: 100px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 50px;
+      left: 60px;
+}
+
+#p7
+{
+      width: 100px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 125px;
+      left: 60px;
+}
+
+#p6
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#p5
+{
+      width: 150px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 127px;
+      left: -15px;
+}
+
+#p1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 200px;
+	background: blue;
+}
+
+#p2 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 50px;
+}
+
+
+#p3 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 75px;
+	left: 50px;
+}
+
+#p4 {
+	width: 50px;
+	height: 100px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 100px;
+}
+
+
+#Q {
+	position: relative;
+}
+
+#q10
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 177px;
+      left: 160px;
+}
+
+#q9
+{
+      width: 100px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 50px;
+      left: 60px;
+}
+
+#q8
+{
+      width: 175px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+
+#q7
+{
+      width: 150px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 77px;
+      left: 85px;
+}
+
+#q6
+{
+      width: 150px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 127px;
+      left: -15px;
+}
+
+#q1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 200px;
+	background: blue;
+}
+
+#q2 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 50px;
+}
+
+#q3 {
+	width: 50px;
+	height: 200px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 100px;
+}
+
+#q4 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 150px;
+	left: 50px;
+}
+
+#q5 {
+	width: 50px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 150px;
+	left: 125px;
+}
+
+#R {
+      position: relative;
+}
+
+#r14
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 50px;
+      left: 60px;
+}
+
+#r13 {
+      position: absolute;
+      top: 0px;
+      left: 50px;
+      width: 50px;
+      height: 50px;
+      background: blue;
+}
+
+#r12
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 107px;
+      left: 85px;
+}
+
+#r11
+{
+      width: 70px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 167px;
+      left: 125px;
+}
+
+#r10
+{
+      width: 80px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 42px;
+      left: 120px;
+}
+
+#r9
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 130px;
+      left: 60px;
+}
+
+#r8
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 80px;
+      left: 110px;
+}
+
+#r7
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 110px;
+}
+
+#r3
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#r2
+{
+      width: 200px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: -40px;
+}
+
+#r6 {
+      position: absolute;
+      top: 130px;
+      left: 100px;
+      width: 50px;
+      height: 70px;
+      background: blue;
+}
+
+#r5 {
+      position: absolute;
+      top: 0px;
+      left: 100px;
+      width: 50px;
+      height: 80px;
+      background: blue;
+}
+
+
+#r4 {
+      position: absolute;
+      top: 80px;
+      left: 50px;
+      width: 50px;
+      height: 50px;
+      background: blue;
+}
+
+#r1 {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      width: 50px;
+      height: 200px;
+      background: blue;
+}
+
+
+#S {
+	position: relative;
+}
+
+#s11
+{
+      width: 150px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#s10
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 77px;
+      left: 35px;
+}
+
+#s9
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 27px;
+      left: 135px;
+}
+
+#s8
+{
+      width: 125px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 140px;
+      left: 97px;
+}
+
+#s7
+{
+      width: 100px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 125px;
+      left: 10px;
+}
+
+#s6
+{
+      width: 100px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 50px;
+      left: 60px;
+}
+
+#s1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 125px;
+	background: blue;
+}
+
+#s2 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 50px;
+}
+
+
+#s3 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 75px;
+	left: 50px;
+}
+
+#s4 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 150px;
+	left: 0px;
+	
+}
+
+#s5 {
+	position: absolute;
+	top: 75px;
+	left: 100px;
+	width: 50px;
+	height: 125px;
+	background: blue;
+}
+
+
+#T {
+	position: relative;
+}
+
+#t8
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 60px;
+}
+
+#t7
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 27px;
+      left: 135px;
+}
+
+#t6
+{
+      width: 150px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 127px;
+      left: 35px;
+}
+
+#t5
+{
+      width: 150px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 50px;
+      left: 10px;
+}
+
+#t1 {
+	width: 150px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 00px;
+}
+
+#t2 {
+	width: 50px;
+	height: 200px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 50px;
+}
+
+
+#U {
+	position: relative;
+}
+
+#u6
+{
+      width: 200px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: -40px;
+}
+
+#u5
+{
+      width: 200px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: 60px;
+}
+
+#u4
+{
+      width: 150px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#u1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 200px;
+	background: blue;
+}
+
+#u2 {
+	width: 50px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 150px;
+	left: 50px;
+}
+
+#u3 {
+	width: 50px;
+	height: 200px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 100px;
+}
+
+
+#W {
+	position: relative;
+}
+
+#w8
+{
+      width: 200px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#w7
+{
+      width: 200px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: 110px;
+}
+
+#w6
+{
+      width: 150px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 77px;
+      left: 60px;
+}
+
+#w5
+{
+      width: 150px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 77px;
+      left: -15px;
+}
+
+#w1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 200px;
+	background: blue;
+}
+
+#w2 {
+	width: 50px;
+	height: 200px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 150px;
+}
+
+#w3 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 150px;
+	left: 50px;
+}
+
+#w4 {
+	width: 50px;
+	height: 200px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 75px;
+}
+
+
+#X {
+      position: relative;
+}
+
+#x16
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 80px;
+      left: 10px;
+}
+
+#x12
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 107px;
+      left: 85px;
+}
+
+#x11
+{
+      width: 70px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 167px;
+      left: 125px;
+}
+
+#x10
+{
+      width: 80px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 42px;
+      left: 120px;
+}
+
+#x9
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 130px;
+      left: 60px;
+}
+
+#x8
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 80px;
+      left: 110px;
+}
+
+#x7
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 110px;
+}
+
+#x3
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#x2
+{
+      width: 200px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: -40px;
+}
+
+#x6 {
+      position: absolute;
+      top: 130px;
+      left: 100px;
+      width: 50px;
+      height: 70px;
+      background: blue;
+}
+
+#x5 {
+      position: absolute;
+      top: 0px;
+      left: 100px;
+      width: 50px;
+      height: 80px;
+      background: blue;
+}
+
+#x4 {
+      position: absolute;
+      top: 80px;
+      left: 50px;
+      width: 50px;
+      height: 50px;
+      background: blue;
+}
+
+#x15 {
+      position: absolute;
+      top: 130px;
+      left: 0px;
+      width: 50px;
+      height: 70px;
+      background: blue;
+}
+
+#x1 {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      width: 50px;
+      height: 80px;
+      background: blue;
+}
+
+#Y {
+	position: relative;
+}
+
+#y10
+{
+      width: 150px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 77px;
+      left: -15px;
+}
+
+#y9
+{
+      width: 125px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 64px;
+      left: 97px;
+}
+
+#y8
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 125px;
+      left: 110px;
+}
+
+#y7
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 125px;
+      left: 10px;
+}
+
+#y6
+{
+      width: 75px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 164px;
+      left: 72px;
+}
+
+#y5
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 60px;
+}
+
+#y1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 125px;
+	background: blue;
+}
+
+#y2 {
+	width: 100px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 75px;
+	left: 50px;
+}
+
+#y3 {
+	width: 50px;
+	height: 125px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 100px;
+}
+
+#y4 {
+	width: 50px;
+	height: 75px;
+	background: blue;
+	position: absolute;
+	top: 125px;
+	left: 50px;
+}
+
+
+#Z {
+	position: relative;
+}
+
+#z13
+{
+      width: 150px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 50px;
+      left: 10px;
+}
+
+#z12
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 152px;
+      left: 35px;
+}
+
+#z11
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 75px;
+      left: 110px;
+}
+
+#z10
+{
+      width: 75px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 39px;
+      left: 122px;
+}
+
+#z9
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 177px;
+      left: 135px;
+}
+
+#z8
+{
+      width: 150px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 10px;
+}
+
+#z7
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 102px;
+      left: 85px;
+}
+
+#z6
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 125px;
+      left: 60px;
+}
+
+#z1 {
+	position: absolute;
+	top: 125px;
+	left: 0px;
+	width: 50px;
+	height: 25px;
+	background: blue;
+}
+
+#z2 {
+	width: 150px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+
+#z3 {
+	width: 50px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 75px;
+	left: 50px;
+}
+
+#z4 {
+	width: 150px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 150px;
+	left: 0px;
+	
+}
+
+#z5 {
+	position: absolute;
+	top: 50px;
+	left: 100px;
+	width: 50px;
+	height: 25px;
+	background: blue;
+}
+
+
+#V {
+	position: relative;
+}
+
+#v9
+{
+      width: 150px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 77px;
+      left: -15px;
+}
+
+#v8
+{
+      width: 150px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 77px;
+      left: 85px;
+}
+
+#v7
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 150px;
+      left: 110px;
+}
+
+#v6
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 150px;
+      left: 10px;
+}
+
+#v5
+{
+      width: 50px;
+      height: 20px;
+      background: darkblue;
+      position: absolute;
+      transform: rotate(90deg) skew(310deg);
+      top: 177px;
+      left: 85px;
+}
+
+#v4
+{
+      width: 50px;
+      height: 24px;
+      transform: skew(40deg);
+      background: midnightblue;
+      position: absolute;
+      top: 200px;
+      left: 60px;
+}
+
+#v1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 150px;
+	background: blue;
+}
+
+#v2 {
+	width: 50px;
+	height: 50px;
+	background: blue;
+	position: absolute;
+	top: 150px;
+	left: 50px;
+}
+
+#v3 {
+	width: 50px;
+	height: 150px;
+	background: blue;
+	position: absolute;
+	top: 0px;
+	left: 100px;
+}

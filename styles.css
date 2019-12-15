@@ -1,0 +1,277 @@
+
+
+
+
+.my-div {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	padding-bottom: 50px;
+	background-color: white;
+}
+
+/* Style the navbar */
+#navbar {
+	overflow: hidden;
+	background-color: #000000;
+	margin-left: 350px;
+	margin-top: -70px;
+	margin-right: 25px;
+}
+
+/* Navbar links */
+#navbar a {
+	float: right;
+	display: block;
+	padding: 14px 25px 14px 25px;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#section-five {
+	position: absolute;
+	top: 6500px;
+	color: white;
+}
+
+#section-six {
+	position: absolute;
+	top: 6550px;
+	color: white;
+}
+
+.active {
+	color: #ff4200;
+}
+.current-menu-item {
+	color: #ff4200;
+}
+
+.inactive {
+	color: #f2f2f2;
+}
+/* Page content */
+.content {
+	padding: 16px;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+	padding-top: 60px;
+}
+
+.main {
+	margin-top: 150px;
+}
+
+.box {
+      width: 1900px;
+      height: 1100px;
+}
+
+#orangebox {
+      position: absolute;
+      background: #ff4200;
+      top: 900px;
+      left: 0px;
+}
+
+.box2 {
+      width: 1900px;
+      height: 1100px;
+}
+
+#blackbox {
+      position: absolute;
+      background: black;
+      top: 2000px;
+      left: 0px;
+}
+
+.box3 {
+      width: 1900px;
+      height: 700px;
+}
+
+#bluebox {
+      position: absolute;
+      background: blue;
+      top: 3800px;
+      left: 0px;
+}
+
+.box4 {
+      width: 1900px;
+      height: 900px;
+}
+
+#bluebox2 {
+      position: absolute;
+      background: blue;
+      top: 5400px;
+      left: 0px;
+}
+
+img {
+	width: 250px;
+}
+
+@font-face {
+	font-family: Le Murmure;
+  	src: url(Le_Murmure-Regular_web.woff);
+  	font-family: SpaceGrotesk;
+	src: url(SpaceGrotesk-Regular.woff);
+ }
+
+#section-one {
+	font-family: Le Murmure;
+	color: #ff4200;
+	font-size: 200px; 
+	margin: 20px;
+
+}
+
+#section-two {
+	font-family: Le Murmure;
+	color: #ff4200;
+	font-size: 200px; 
+	margin: 20px;
+	position: absolute;
+	top: 2200px;
+}
+
+#section-three {
+	font-family: Le Murmure;
+	color: white;
+	font-size: 200px; 
+	margin: 30px;
+	position: absolute;
+	top: 4000px;
+
+}
+
+#section-four {
+	font-family: Le Murmure;
+	color: #ff4200;
+	font-size: 200px; 
+	margin: 30px;
+	position: absolute;
+	top: 4700px;
+	left: 1000px;
+
+}
+
+text2 {
+	font-family: Le Murmure;
+	color: white;
+	font-size: 150px; 
+	margin: 20px;
+	position: absolute;
+	top: 1300px;
+	left: 1330px;
+	line-height: 150px;
+}
+
+spanp1 {
+	font-family: SpaceGrotesk;
+	position: absolute;
+	top: 500px;
+	width: 700px;
+	margin: 50px;
+}
+
+spanp2 {
+	font-family: SpaceGrotesk;
+	position: absolute;
+	color: white;
+	top: 2500px;
+	width: 700px;
+	margin: 50px;
+}
+
+spanstrike {
+	text-decoration: line-through;
+	text-decoration-color: #ff4200;
+}
+
+spanp4 {
+	font-family: SpaceGrotesk;
+	position: absolute;
+	color: white;
+	top: 4100px;
+	left: 800px;
+	width: 700px;
+	margin: 50px;
+}
+
+#imgbird {
+	position: absolute;
+	top: 215px;
+	left: 1200px;
+	width: 500px;
+}
+
+#map {
+	position: absolute;
+	top: 2850px;
+	width: 1910px;
+	left: -10px;
+}
+
+spanh4 {
+	font-family: SpaceGrotesk;
+	position: absolute;
+	color: black;
+	font-size: 30px;
+	top: 4950px;
+	left: 980px;
+	width: 700px;
+	margin: 50px;
+}
+
+
+spanh2 {
+	font-family: Le Murmure;
+	src: url(Le_Murmure-Regular_web.woff);
+	color: #ff4200;
+	font-size: 133px; 
+	margin: 20px;
+	line-height: 10px
+
+}
+
+#render1 {
+
+	position: absolute;
+	top: 4600px;
+	width: 1010px;
+	left: 00px;
+
+}
+
+#render2 {
+
+	position: absolute;
+	top: 5600px;
+	width: 1010px;
+	left: 800px;
+
+}
+
+spanp5 {
+	font-family: SpaceGrotesk;
+	position: absolute;
+	color: white;
+	top: 5700px;
+	left: 100px;
+	width: 400px;
+	margin: 50px;
+
+}
